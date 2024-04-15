@@ -1,2 +1,1 @@
-Madhusudan Singh Chauhan 
-Kaam Kar Rha hu Apni Skills Par :)
+I'm Madhusudan Singh Chauhan Student at GLA University in B.Tech ( CSE - AIML ).
