@@ -21,7 +21,7 @@
 - 🔎 <b>I’m currently looking for ... </b></br>
       Software Engineering New Grad Positions for 2026.
 - ⚡ <b>Fun facts:</b> </br>
-      I like Real State Property Buying, Document life as 21y software engineer on YouTube, Doing Coding everyday.
+      I like flimming life as 21y Software Engieer on YouTube.
 
 <h2 align="center">:wrench: Languages and Tools</h2>
 <p align="center"> 
