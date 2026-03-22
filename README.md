@@ -17,11 +17,11 @@
 - 🧪 <b>I'm currently working on ... </b></br> 
       my personal site.
 - 🧠 <b>I'm currently learning about ... </b></br>
-      frontend technologies, databases, and AIML.
+      frontend technologies,backend technologies, databases, and machine learning & AI.
 - 🔎 <b>I’m currently looking for ... </b></br>
-      Software Engineering New Grad Positions for 2026.
+      software engineering New Grad Positions for 2026.
 - ⚡ <b>Fun facts:</b> </br>
-      I like flimming life as 21y Software Engieer on YouTube.
+      like flimming life as it is.
 
 <h2 align="center">:wrench: Languages and Tools</h2>
 <p align="center"> 
